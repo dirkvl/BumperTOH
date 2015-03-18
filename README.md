@@ -17,3 +17,9 @@ Lastly massage the casing around to get it into the right place. This casing is 
 ## I fudged up and it is damaged
 
 That sucks. Order another one, but read through these instructions first the next time.
+
+## I want to donate
+
+That is extremely unneccessary, but very friendly! It is also very encouraging for me to keep developing and you can use it to give an extra push to your idea or suggestion. Not like a bribe, but I can allocate more time to it.
+
+[Link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQFRTKM8HSXYS)
