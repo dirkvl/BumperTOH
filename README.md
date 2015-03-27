@@ -2,7 +2,7 @@
 
 ## How to order
 
-Download the STL file and upload it to [Shapeways](shapeways.com). Select 'Elasto Plastic' as your material and fill in your own address.
+Download the STL file and upload it to [Shapeways](http://shapeways.com). Select 'Elasto Plastic' as your material and fill in your own address.
 
 ## How to apply
 
